@@ -1,0 +1,34 @@
+[
+    {
+        "name": "collection 1",
+        "items": [
+            {
+                "id": "1",
+                "format": "text",
+                "type": "cat fact",
+                "content": "like humans, cats have a paw they prefer.",
+                "source": "https://example.com/"
+            },
+            {
+                "id": "2",
+                "format": "number",
+                "type": "number",
+                "content": "31967",
+                "source": "https://random.com/"
+            }
+        ]
+    },
+    {
+        "name": "comics",
+        "items": [
+            {
+                "id": "3",
+                "format": "img",
+                "type": "xkcd",
+                "content": "https://imgs.xkcd.com/comics/forms_of_water_2x.png",
+                "alt": "Forms of Water",
+                "source": "https://xkcd.com/3315"
+            }
+        ]
+    }
+]
