@@ -1,9 +1,12 @@
 [
     {
         "name": "collection 1",
+        "created": "2026-08-14T18:30:00Z",
+        "updated": "2026-08-14T18:30:00Z",
         "items": [
             {
                 "id": "1",
+                "created": "2026-08-14T18:30:00Z",
                 "format": "text",
                 "type": "cat fact",
                 "content": "like humans, cats have a paw they prefer.",
@@ -11,6 +14,7 @@
             },
             {
                 "id": "2",
+                "created": "2026-08-14T18:30:00Z",
                 "format": "number",
                 "type": "number",
                 "content": "31967",
@@ -20,11 +24,14 @@
     },
     {
         "name": "comics",
+        "created": "2026-08-14T18:30:00Z",
+        "updated": "2026-08-14T18:30:00Z",
         "items": [
             {
                 "id": "3",
+                "created": "2026-08-14T18:30:00Z",
                 "format": "img",
-                "type": "xkcd",
+                "type": "comic",
                 "content": "https://imgs.xkcd.com/comics/forms_of_water_2x.png",
                 "alt": "Forms of Water",
                 "source": "https://xkcd.com/3315"
