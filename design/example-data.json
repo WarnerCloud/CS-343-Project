@@ -18,7 +18,8 @@
                 "format": "number",
                 "type": "number",
                 "content": "31967",
-                "source": "https://random.com/"
+                "source": "https://random.com/",
+                "link": "https://random.com/number/31967"
             }
         ]
     },
@@ -34,7 +35,8 @@
                 "type": "comic",
                 "content": "https://imgs.xkcd.com/comics/forms_of_water_2x.png",
                 "alt": "Forms of Water",
-                "source": "https://xkcd.com/3315"
+                "source": "https://xkcd.com/3315",
+                "link": "https://xkcd.com/3315"
             }
         ]
     }
