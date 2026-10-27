@@ -23,13 +23,6 @@ This app will create data based on what the app user has randomly collected with
             "type": "cat fact",
             "content": "like humans, cats have a paw they prefer.",
             "source": "https://example.com/"
-        },
-        {
-            "id": "2",
-            "format": "number",
-            "type": "number",
-            "content": "31967",
-            "source": "https://random.com/"
         }
     ]
 }
